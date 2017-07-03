@@ -1,2 +1,2 @@
 # RM-System
-小型java web 项目
+小型Javaweb项目
